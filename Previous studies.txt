@@ -1,0 +1,89 @@
+* instruments
+
+  * International Ultraviolet Explorer (IUE)
+    - 1978 ~ 1996
+  * Hubble Space Telescope (HST)
+    - Space Telescope Imaging Spectrograph (STIS)
+
+
+-----------> Normal spectra
+
+  * The Wind Temperature and Mass-loss Rate of Arcturus (K1.5 III) (Graham et al. 2022)
+    - https://ui.adsabs.harvard.edu/abs/2022ApJ...932...57H/abstract
+    - HST, Space Telescope Imaging Spectrograph (STIS)
+    - EUV lines with ~ ks exposure time
+  
+  * Stellar Magnetic Activity Measure Based on IUE Mg II h+k Emission Lines of Main-Sequence G Stars (Kim et al. 2022)
+    - https://ui.adsabs.harvard.edu/abs/2022JKAS...55...59K/abstract
+    - IUE data 
+    - S index from Mount Wilson Observatory, using Ca II lines (magnetic activity indicator)
+  
+  * Theoretical basal Ca II and Mg II fluxes for late-type stars: 
+    results from acoustic wave spectra with time-dependent ionization 
+    and multilevel radiation treatments (Fawzy 2015)
+    - https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1824F/abstract
+    - Using 1D simulation, relationship between Mg II flux and T_eff is derived. 
+    - only for lo activity stars (basal flux stars)
+    
+  * The non-active stellar chromosphere: Ca II basal flux (Martinez et al. 2014)
+    - https://ui.adsabs.harvard.edu/abs/2014MNRAS.445..270P/abstract
+    - ESO archive spectra from UVES
+    - inactive or modestly active G, M III, V stars
+    - derive relation among basal flux of Ca II H+K, T_eff, S index of Mt Wilson
+
+  * Chromospheric models of dwarf M stars (Mauas et al. 1997)
+    - https://ui.adsabs.harvard.edu/abs/1997A%26A...326..249M/abstract
+    - Chromospheric model for two dM stars (basal stars)
+    
+  * Mg Emission from Hybrid-Chromosphere Stars: 
+    1.5 Decades of Chromospheric Variability Monitoring (Brown et al. 1996)
+    - https://ui.adsabs.harvard.edu/abs/1996ApJS..107..263B/abstract
+    - long-term variation of Mg II lines for various stars
+    
+  
+------------> Chromospheric events
+
+https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=database%3A%20astronomy&fq_property=property%3A%20refereed&p_=1&q=abs%3A(stellar%20Chromospheric%20events%20spectroscopic%20observation)&sort=date%20desc%2C%20bibcode%20desc
+
+  * Detection of Flare-associated CME Candidates on Two M-dwarfs by GWAC and Fast, 
+    Time-resolved Spectroscopic Follow-ups (Wang et al. 2021)
+    - https://ui.adsabs.harvard.edu/abs/2021ApJ...916...92W/abstract
+    - M dwarf flare with CME
+    - R band magnitude & H alpha spectrum
+    - measurment Doppler velocity (500-700km/s), energy (10^33-35 erg), CME mass (10^18-19 g)
+    
+  * The GAPS programme at TNG. XXVI. Magnetic activity in M stars: 
+    spectroscopic monitoring of AD Leonis (Maio et al. 2020)
+    - https://ui.adsabs.harvard.edu/abs/2020A%26A...642A..53D/abstract
+    - relation among different spectral lines (H alpha, H beta, He I 4471, Ca II H&K)..
+    
+  * Further Investigation on Chromospheric and Prominence Activity of 
+    the RS Canum Venaticorum Star SZ Piscium (Cao et al. 2020)
+    - https://ui.adsabs.harvard.edu/abs/2020AJ....159..292C/abstract
+    - SZ psc (K1 IV primary star + F8 V secondary star) --> Chromospheric activity
+    - Flare emission, Filament absorption
+    
+  * The quest for stellar coronal mass ejections in late-type stars. 
+    I. Investigating Balmer-line asymmetries of single stars in Virtual Observatory data
+    - https://ui.adsabs.harvard.edu/abs/2019A%26A...623A..49V/abstract
+    - M dwarf CMEs / H alpha, beta, gamma
+    - v ~ 100-300 km/s (< escape velocity, before the acceleration phase? due to the strong B fields)
+    - Mass ~ 10^15-18 g
+   
+  * Prominence activation, optical flare, and post-flare loops 
+    on the RS Canum Venaticorum star SZ Piscium (Cao et al. 2019)
+    - https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..988C/abstract
+    - Summary about previous stellar prominance studies 
+    - 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
